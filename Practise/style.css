@@ -1,0 +1,22 @@
+.title {text-align: center;}
+
+p {text-indent: 5%;}
+
+li {text-indent: 5%;}
+
+body {background-color: rgb(139, 230, 199); border-width: 15px; border-style: ridge; border-color:rgb(66, 4, 40) ; margin: 0;}
+
+.font1 {font-style: italic; font-weight:lighter; color: rgb(255, 127, 204); font-size: medium;}
+
+.font2 {font-style: normal; font-size: large; color: aqua;}
+
+.font3 {font-style: oblique; font-size: larger; color: rgb(13, 75, 10);}
+
+h2 {color: rgb(111, 0, 0);}
+
+#footer {color: black;}
+
+.box {border: 10px; padding: 3%; margin: auto; border-color: black; border-style: dotted; width: 20%; text-align: center; margin-bottom: 10%; margin-top: 10%;}
+
+.boxy {text-align: center;}
+

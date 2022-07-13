@@ -20,3 +20,9 @@ h2 {color: rgb(111, 0, 0);}
 
 .boxy {text-align: center;}
 
+
+.menu:hover .menu-content {display: block;
+    
+}
+.menu-content {display: none; position: absolute; background-color: black; color: azure; min-width: 200px;}
+.menu {position: relative; display: inline-block;}
